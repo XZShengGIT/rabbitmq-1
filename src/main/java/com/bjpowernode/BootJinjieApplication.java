@@ -49,6 +49,9 @@ public class BootJinjieApplication implements CommandLineRunner, ApplicationRunn
         System.out.println("uuid的值是："+uuid);
         System.out.println("mydesc的值是："+desc);
         System.out.println("hot的值是："+desc);
+        System.out.println("hot的值是："+desc);
+        System.out.println("hot的值是："+desc);
+        System.out.println("hot的值是："+desc);
         System.out.println("fix的值是："+desc);
         System.out.println("fix的值是："+desc);
         System.out.println("fix的值是："+desc);
