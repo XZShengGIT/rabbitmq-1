@@ -47,6 +47,8 @@ public class BootJinjieApplication implements CommandLineRunner, ApplicationRunn
     public void run(ApplicationArguments args) throws Exception {
         System.out.println("uuid的值是："+uuid);
         System.out.println("mydesc的值是："+desc);
+        System.out.println("hot的值是："+desc);
+        System.out.println("fix的值是："+desc);
         System.out.println("hot-fix测试：mydesc的值是："+desc);
         System.out.println("通过configurationproperties获取到的值："+user.getDesc());
         System.out.println("通过ENVIROMENT获取到的值："+environment.getProperty("my.desc"));
