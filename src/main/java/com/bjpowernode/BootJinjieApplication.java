@@ -50,6 +50,8 @@ public class BootJinjieApplication implements CommandLineRunner, ApplicationRunn
         System.out.println("mydesc的值是："+desc);
         System.out.println("hot的值是："+desc);
         System.out.println("fix的值是："+desc);
+        System.out.println("fix的值是："+desc);
+        System.out.println("fix的值是："+desc);
         System.out.println("hot-fix测试：mydesc的值是："+desc);
         System.out.println("master测试：mydesc的值是："+desc);
         System.out.println("master测试：mydesc的值是："+desc);
