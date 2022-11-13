@@ -53,6 +53,8 @@ public class BootJinjieApplication implements CommandLineRunner, ApplicationRunn
         System.out.println("fix的值是："+desc);
         System.out.println("fix的值是："+desc);
         System.out.println("fix的值是："+desc);
+        System.out.println("fix的值是："+desc);
+        System.out.println("fix的值是："+desc);
         System.out.println("hot-fix测试：mydesc的值是："+desc);
         System.out.println("通过configurationproperties获取到的值："+user.getDesc());
         System.out.println("通过ENVIROMENT获取到的值："+environment.getProperty("my.desc"));
